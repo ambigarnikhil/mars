@@ -1,2 +1,6 @@
 I M in master
+<<<<<<< HEAD
 new content
+=======
+delete content
+>>>>>>> b1
